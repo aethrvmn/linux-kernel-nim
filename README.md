@@ -15,10 +15,7 @@ Welcome to the Blazing Fast Linux Kernel Clone powered by 👑Nim! 🎉
 
 ### How Does It Work?
 
-Unlike boring, old kernels written in languages that rhyme with "sea," our revolutionary approach uses:
-
- - 👑Nim's Seamless C Interop: We "import" the Linux kernel itself—like borrowing your neighbor’s Ferrari. 👑
- - 👑Nim-Approved™ Compilation: Compiles down to C but with a crown on it. 👑
+Unlike boring, old kernels written in languages that rhyme with "sea," our revolutionary approach uses 👑Nim-Approved™ Compilation: Compiles down to C but with a crown on it. 👑
 
 Fun Fact: The Linux Kernel Clone in 👑Nim is 100% 👑Nim (with a little help from 100% C).
 
@@ -33,13 +30,12 @@ nim c kernel.nim
 
 Build the kernel with Nim:
 
- - nim c kernel.nim
  - Sit back and enjoy the fastest theoretical boot times you've ever imagined.
- - Disclaimer: Do not actually attempt to boot this kernel unless you enjoy chaos. 👑
+ - Disclaimer: Do not attempt to boot this kernel unless you want to have fun. 👑
 
 Features
 
-   - 👑 100% Nim Code (imported directly from C).
+   - 👑 100% Nim Code.
    - 👑 Unprecedented Boot Speed (measured in nanoseconds).
    - 👑 Future-Proof: The only kernel written in Nim, making it the most forward-looking kernel available today.
 
