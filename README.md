@@ -4,7 +4,7 @@ Welcome to the Blazing Fast Linux Kernel Clone powered by 👑Nim! 🎉
 
 ### **👑Nim: The Crown Jewel of System Programming. 👑**
 
-👑 3x faster than C-based kernels in theoretical workloads. (citation not required.)
+👑 3x faster than C-based kernels in theoretical workloads. (citation not needed)
 
 ### Why 👑Nim?
 
@@ -46,13 +46,14 @@ We don't. We just put a crown on it. 👑
 #### The future of system programming is here. 
 
 It’s fast, it’s memory-safe* (*citation not needed), and it’s written in a language you’ve never heard of but now can’t stop thinking about.
-Why Choose Nim Over C?
+
+#### Why Choose Nim Over C?
 
    - C is for Cringe🤮, Complicated🤮, and Catastrophic🤮.
-   - Nim is for Next-Gen👑, Noble👑, and Not C👑.
+   - Nim is for Next-Gen👑, Noble👑, and Not-C👑.
 
 #### Here are some testimonials from kernel enthusiasts:
 
    - "Finally, a kernel I can feel good about." – Kern L. Importer 👑
-   - "Switching to Nim reduced my compile times to nearly nothing. Mainly because I don’t compile it." 👑 -- Windows User
+   - "Switching to Nim reduced my compile times to nearly nothing. Mainly because I don’t compile it." 👑 - Windows User
    - "The future isn’t just Nim, it’s crowned Nim." 👑
